@@ -1,6 +1,6 @@
 # Zillow-Beyond-Zestimate
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/namanarora97/Zillow-Beyond-Zestimate/blob/main/Zillow_Zestimate_Prediction.ipynb)
+[![Open In Colab](https://github.com/namanarora97/Data-Science-Notebooks/blob/main/assets/colab-badge.svg)](https://githubtocolab.com/namanarora97/Zillow-Beyond-Zestimate/blob/main/Zillow_Zestimate_Prediction.ipynb)
 
 Zillow's zestimate has been under a lot of scrutiny lately due to an increase in inaccurate estimation leading to losses for the company. 
 
