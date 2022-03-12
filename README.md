@@ -10,3 +10,10 @@ The data is provisioned by Zillow through a [Kaggle competition](https://www.kag
 
 ## Findings
 
+Upon analyzing the feature importance for the best chosen model, the following features seem to be the most impactful in contributing to the error in Zestimates:
+
+* Property/County Land Use Code
+* Presence in Zip Code 964XXX (Properties in this area are generally incorrectly priced)
+* Bedroom count (Properties with lower bedroom counts tend to have a higher error in the Zestimate)
+* Garage Count
+* Buildings that are rated at a Quality level of 5
